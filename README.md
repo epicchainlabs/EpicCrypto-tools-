@@ -16,7 +16,7 @@ To get started with EpicCryptoTools++, follow these steps to build the library a
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/epic-chain/epiccryptotools++.git
+   git clone https://github.com/epicchainlabs/epiccryptotools++.git
    cd epiccryptotools++
    ```
 
